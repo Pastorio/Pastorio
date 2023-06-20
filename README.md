@@ -2,13 +2,34 @@
 
 ### Computer Enginner | Data Scientist | Full Stack Developer
 <!--
-
 I'm a skilled and passionate Data Scientist and Full Stack Developer with expertise in Python, SQL, machine learning, and web development. I have a strong background in data analysis, statistics, and mathematics, along with hands-on experience in building predictive models, recommendation systems, and time series analysis. My goal is to leverage data-driven insights and innovative technologies to solve complex business challenges and drive impactful results.
 -->
-- My skills :
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" height="35" align=left>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="35" height="35" align=left>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
+
+### Skills
+__________________________________________________________________________________________________
+
+<div style="display: inline_block">
+  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" height="35" align=left>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="35" height="35" align=left>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
+</div>
+<br><br>
+
+### Stats
+
+__________________________________________________________________________________________________
+
+<!--
+<div style="display: inline_block"><br>
+  <a href="https://github.com/Pastorio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pastorio&theme=radical&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pastorio&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<br>
+-->
 
 <div>
   <p align=center>
@@ -16,8 +37,8 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
   </p>
 </div>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
+    
+__________________________________________________________________________________________________
 
 
 <!--
