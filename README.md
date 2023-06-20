@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### Computer Enginner | Data Scientist | Full Stack Developer
+
 <!--
 I'm a skilled and passionate Data Scientist and Full Stack Developer with expertise in Python, SQL, machine learning, and web development. I have a strong background in data analysis, statistics, and mathematics, along with hands-on experience in building predictive models, recommendation systems, and time series analysis. My goal is to leverage data-driven insights and innovative technologies to solve complex business challenges and drive impactful results.
 -->
 
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
 
 ### Skills
@@ -17,7 +18,7 @@ ________________________________________________________________________________
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
 </div>
 <br><br>
-
+-->
 ### Stats
 
 __________________________________________________________________________________________________
@@ -38,8 +39,6 @@ ________________________________________________________________________________
 </div>
 
     
-__________________________________________________________________________________________________
-
 
 <!--
 **Pastorio/Pastorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
