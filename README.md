@@ -8,7 +8,7 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
 - My skills :
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" height="35" align=left>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="35" height="35" align=left>
-<img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" width="35" height="35" align=left>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
 
 <div>
   <p align=center>
