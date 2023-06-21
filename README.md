@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-### Computer Enginner | Data Scientist | Full Stack Developer
+Computer Enginner & Data Scientist
 
 <!--
 I'm a skilled and passionate Data Scientist and Full Stack Developer with expertise in Python, SQL, machine learning, and web development. I have a strong background in data analysis, statistics, and mathematics, along with hands-on experience in building predictive models, recommendation systems, and time series analysis. My goal is to leverage data-driven insights and innovative technologies to solve complex business challenges and drive impactful results.
@@ -10,8 +10,7 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
 -->
 
-### Skills
-__________________________________________________________________________________________________
+## Skills
 
 <div style="display: inline_block">
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" height="35" align=left>
@@ -20,13 +19,13 @@ ________________________________________________________________________________
   <img src="https://img.icons8.com/?size=512&id=qGUfLiYi1bRN&format=png" width="35" height="35" align=left>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="35" height="35" align=left>
   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="45" height="35" align=left>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" width="35" height="35" align=left>
+
 
 </div>
 <br><br>
 
-### Stats
-
-__________________________________________________________________________________________________
+## Stats
 
 <!--
 <div style="display: inline_block"><br>
@@ -44,6 +43,7 @@ ________________________________________________________________________________
 </div>
 
     
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
 
 <!--
 **Pastorio/Pastorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
