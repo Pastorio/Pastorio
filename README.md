@@ -19,7 +19,11 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
   <img src="https://img.icons8.com/?size=512&id=qGUfLiYi1bRN&format=png" width="35" height="35" align=left>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="35" height="35" align=left>
   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="45" height="35" align=left>
+  <img src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" width="50" height="35" align=left>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" width="35" height="35" align=left>
+  <img src="https://img.stackshare.io/service/5601/keras.png" width="35" height="35" align=left>
+<!--   <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="90" height="35" align=left> -->
+  <img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" width="35" height="35" align=left>
 
 
 </div>
