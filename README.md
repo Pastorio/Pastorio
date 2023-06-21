@@ -17,8 +17,9 @@ ________________________________________________________________________________
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" height="35" align=left>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="35" height="35" align=left>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="35" height="35" align=left>
+  <img src="https://img.icons8.com/?size=512&id=qGUfLiYi1bRN&format=png" width="35" height="35" align=left>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="35" height="35" align=left>
+  <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="45" height="35" align=left>
 
 </div>
 <br><br>
