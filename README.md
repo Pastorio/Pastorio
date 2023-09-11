@@ -30,7 +30,7 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
 </div>
 <br><br>
 
-## Stats
+<!--## Stats-->
 
 <!--
 <div style="display: inline_block"><br>
@@ -41,11 +41,11 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
 <br>
 -->
 
-<div>
+<!--<div>
   <p align=center>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Pastorio&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </p>
-</div>
+</div>-->
 
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pastorio-blue.svg)](https://www.linkedin.com/in/jo%C3%A3o-past%C3%B3rio-90336414b/)
