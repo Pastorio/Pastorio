@@ -23,8 +23,8 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" width="35" height="35" align=left>
   <img src="https://img.stackshare.io/service/5601/keras.png" width="35" height="35" align=left>
 <!--   <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="90" height="35" align=left> -->
-  <img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" width="35" height="35" align=left>
-  <img src="https://api.mogenius.com/file/id/f7382e8b-be9a-4b6e-be70-cba7c3c664f2" width="35" height="35" align=left>
+<!--   <img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" width="35" height="35" align=left>
+  <img src="https://api.mogenius.com/file/id/f7382e8b-be9a-4b6e-be70-cba7c3c664f2" width="35" height="35" align=left> -->
   <img src="https://camo.githubusercontent.com/ecd189c1ed479cdd4da14453dafc0d9a45007db42e59c68f6c2afb3e5ac7c631/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f7468756d62732f3136302f6170706c652f3238352f706172726f745f31663939632e706e67" width="35" height="35" align=left>
   
 </div>
