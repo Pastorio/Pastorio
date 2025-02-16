@@ -13,17 +13,20 @@ I'm a skilled and passionate Data Scientist and Full Stack Developer with expert
 ## Skills
 
 <div style="display: inline_block">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" width="45" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="50" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="35" height="35" align=left>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" width="35" height="35" align=left>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" width="45" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="45" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" width="45" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="50" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" width="35" height="35" align=left/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" width="35" height="35" align=left/></code>
 </div>
 <br><br>
 
